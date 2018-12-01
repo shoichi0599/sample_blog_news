@@ -1,1 +1,1 @@
-# sample-blog-news
+# sample_blog_news
